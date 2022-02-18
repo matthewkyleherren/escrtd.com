@@ -211,7 +211,7 @@ blockquote {
 	font-size: 3rem;
 	font-style: normal;
 	position: relative;
-	font-family: freight-display-pro, serif
+	font-family: proxima-nova, sans-serif
 }
 
 @media only screen and (max-width:769px) {
@@ -839,7 +839,7 @@ blockquote {
 .s-hero .c-heading h2 i,
 .s-loader .c-loading .c-text .c-head {
 	font-weight: 400;
-	font-family: freight-display-pro, serif
+	font-family: proxima-nova, sans-serif
 }
 
 .s-fullscreen {
@@ -1993,7 +1993,7 @@ blockquote {
 	font-size: 3.5rem;
 	position: relative;
 	font-style: normal;
-	font-family: freight-display-pro, serif
+	font-family: proxima-nova, sans-serif
 }
 
 .s-nav .c-categories ul li a.c-active {
@@ -2325,7 +2325,7 @@ blockquote {
 	font-style: normal;
 	position: relative;
 	padding-bottom: 30px;
-	font-family: freight-display-pro, serif
+	font-family: proxima-nova, sans-serif
 }
 
 .s-sidenav .c-category a,
@@ -3126,11 +3126,11 @@ blockquote {
 	height: 190px;
 	font-size: 12vw;
 	line-height: 8vw;
-	font-weight: 400;
+	font-weight: 500;
 	overflow: hidden;
-	font-style: normal;
+	
 	letter-spacing: .5vw;
-	font-family: freight-display-pro, serif
+	font-family: proxima-nova, sans-serif
 }
 
 @media only screen and (min-width:1600px) {
@@ -3509,7 +3509,7 @@ blockquote {
 	font-style: normal;
 	letter-spacing: -1px;
 	display: inline-block;
-	font-family: freight-display-pro, serif
+	font-family: proxima-nova, sans-serif
 }
 
 .p-overview .c-heading h2 i,
@@ -3518,7 +3518,7 @@ blockquote {
 	font-weight: 400;
 	font-style: normal;
 	letter-spacing: -2.5px;
-	font-family: freight-display-pro, serif
+	font-family: proxima-nova, sans-serif
 }
 
 .p-about .s-hero {
