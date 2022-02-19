@@ -48,6 +48,10 @@ small {
 	-webkit-backface-visibility: hidden
 }
 
+.c-container {
+	height:100vh;
+}
+
 .a-case-work .s-work,
 .c-back,
 .p-next,
